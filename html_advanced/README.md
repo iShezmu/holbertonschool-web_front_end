@@ -55,3 +55,14 @@
     - change the ´\<title>´ to put: ´Article - Techium´
     - inside the ´main´ tags
       - after the text, create the ´aside´ tags with text ´Aside´
+
+*   5-index.html
+    - inside your ´\<main>´ section
+      - remove the text in ´main´, create these sections:
+        - create first section and put the text ´Hero section´ inside
+        - create second section and put the text ´Services section´ inside
+        - create third section and put the text ´Works section´ inside
+        - create fourth section and put the text ´About section´ inside
+        - create fifth section and put the text ´Latest news section´ inside
+        - create sixth section and put the text ´Testimonials section´ inside
+        - create seventh section and put the text ´Contact section´ inside
