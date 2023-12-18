@@ -176,3 +176,8 @@
 *   14-index.html
     - In the very first ´\<header>,´
       - before the ´nav´, create a ´span´ with the text ´Techium´
+
+*   15-index.html
+    - Wrap the contents of the ´header´ element with a ´div´
+    - Wrap the content of each ´section´ element within a ´div´
+    - Finally, wrap the contents of the ´\<footer>´ tag with a ´div´
