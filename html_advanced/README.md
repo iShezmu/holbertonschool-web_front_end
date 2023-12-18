@@ -66,3 +66,17 @@
         - create fifth section and put the text ´Latest news section´ inside
         - create sixth section and put the text ´Testimonials section´ inside
         - create seventh section and put the text ´Contact section´ inside
+
+*   6-index.html
+    - Work articles:
+      - inside the section ´Works section´
+        - add 3 ´article´ tags
+          - inside each ´article´ write ´Work #´ where the hashtag will be the ordered number (1, 2, or 3)
+    - News articles:
+      - inside the section ´Latest news section´
+        - add 3 ´article´ tags
+          - inside each ´article´ write ´Article #´ where the hashtag will be the ordered number (1, 2, or 3)
+    - Testimonial articles:
+      - inside the section ´Testimonials section´
+        - add 3 ´article´ tags
+          - inside each ´article´ write ´Testimonial #´ where the hashtag will be the ordered number (1, 2, or 3)
