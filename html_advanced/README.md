@@ -164,3 +164,11 @@
       - below the level 2 ´About Us´ heading add a paragraph with text ´Everything about us´
       - below the level 2 ´Testimonials´ heading add a paragraph with text ´We are more than a digital company´
       - below the level 2 ´Contact´ heading add a paragraph with text ´We like to know new people´
+
+*   13-styleguide.html
+    - After the existing section containing ´Headings´, create a new ´section´ in ´main´
+      - in this section create a ´header´
+        - Inside the header, create a level 2 heading with text ´Paragraph´
+      - after the ´header´ add a level 2 heading with text ´Heading with a subtitle´
+      - after the level 2 heading, add a paragraph with text ´This is my subtitle´
+      - after the last paragraph, add another paragraph with text: ´Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.´
