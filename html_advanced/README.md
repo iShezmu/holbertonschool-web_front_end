@@ -50,3 +50,8 @@
     - Footer:
       - create the ´footer´ tag after the ´main´ tag
         - put the text ´Footer´ inside the ´footer´ tags
+
+*   article.html
+    - change the ´\<title>´ to put: ´Article - Techium´
+    - inside the ´main´ tags
+      - after the text, create the ´aside´ tags with text ´Aside´
