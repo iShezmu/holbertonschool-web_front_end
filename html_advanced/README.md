@@ -181,3 +181,24 @@
     - Wrap the contents of the ´header´ element with a ´div´
     - Wrap the content of each ´section´ element within a ´div´
     - Finally, wrap the contents of the ´\<footer>´ tag with a ´div´
+
+*   16-index.html
+    - in the ´div´ in the Services ´section´
+      - create a ´header´ tag that wraps the ´h2´ and the ´p´
+      - create a ´div´ sibling to the ´header´ that wraps the rest of the content
+    - in the ´div´ in the Works ´section´
+      - create a ´header´ tag that wraps the ´h2´ and the ´p´
+      - create a ´div´ sibling to the ´header´ that wraps the rest of the content
+    - in the ´div´ in the About Us ´section´
+      - create a ´header´ tag that wraps the ´h2´ and the ´p´
+      - create a ´div´ sibling to the ´header´ that wraps the rest of the content
+    - in the ´div´ in the Latest news ´section´
+      - create a ´header´ tag that wraps the ´h2´
+      - create a ´div´ sibling to the ´header´ that wraps the rest of the content
+    - in the ´div´ in the Testimonials ´section´
+      - create a ´header´ tag that wraps the ´h2´ and the ´p´
+      - create a ´div´ sibling to the ´header´ that wraps the rest of the content
+    - in the ´div´ in the Contact ´section´
+      - create a ´header´ tag that wraps the ´h2´ and the first ´p´
+      - create a ´div´ sibling to the ´header´ that wraps the rest of the content
+
