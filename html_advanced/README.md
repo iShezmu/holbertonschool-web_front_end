@@ -240,3 +240,11 @@
       - create a link to ´https://twitter.com/holbertonschool´ with the text ´Twitter´
       - create a link to ´https://www.instagram.com/holbertonschool/´ with the text ´Instagram´
 
+*   22-index.html
+    - in the Hero ´section´, after the heading
+      - create a link to ´#´ with the text ´Get started´
+    - in the About Us ´section´, after the ´div´ containing the level 3 headings and paragraphs
+      - create a link to ´about.html´ with the text ´Learn more about us´
+    - in the Contact ´section´, after the ´div´ containing the paragraph
+      - create a link to ´contact.html´ with text ´Get in touch´
+
