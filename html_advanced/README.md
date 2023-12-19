@@ -256,3 +256,9 @@
     - in the Latest news ´section´
       - in each level 3 heading, create a link to ´#´ around the text already in the heading
 
+*   24-index.html
+    - in the ´nav´
+      - create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
+    - in the ´div´ in the ´footer´
+      - create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
+
