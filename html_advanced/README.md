@@ -248,3 +248,11 @@
     - in the Contact ´section´, after the ´div´ containing the paragraph
       - create a link to ´contact.html´ with text ´Get in touch´
 
+*   23-index.html
+    - in the Services ´section´
+      - in each level 3 heading, create a link to ´#´ around the text already in the heading
+    - in the Works ´section´
+      - in each level 3 heading, create a link to ´#´ around the text already in the heading
+    - in the Latest news ´section´
+      - in each level 3 heading, create a link to ´#´ around the text already in the heading
+
