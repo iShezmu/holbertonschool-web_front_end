@@ -373,3 +373,15 @@
          - add a level 3 heading with text `Open`
          - add a details element that is open by default and specify `Always open` in the `summary`
          - add this text after the `summary`: `Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+*   35-index.html
+    - in `header`
+      - find the `span` with the name of the website
+      - replace it with the image above
+      - make sure the image is in the same directory as all of your other files and that the file name is `logo-black.png`
+      - alt: `Techium logo`
+      - don’t forget to specify width of `160` and height of `40`
+    - in `footer`, after the opening tag and before the address
+      - insert the logo image
+      - alt: `Techium logo`
+      - don’t forget to specify the width and height (same as in header)
