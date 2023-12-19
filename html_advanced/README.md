@@ -338,4 +338,24 @@
         - in the third ´article´, after the last paragraph, add the author name in small print: ´By Frances J.´
 
 *   32-styleguide.html
-    - 
+    - inside ´main´ after the Blockquotes ´section´
+      - add a new line and a comment with text ´Typography´
+      - create a new ´section´
+        - in the section create a ´header´ and inside it add a level 2 heading with the text ´Typography´
+        - after the ´header´ create a ´div´, inside the ´div´ add this text with the correct HTML tag: ´320 Stewart Avenue, Unit 12 (line break) New York City NY 10001´, the city, state, and postal code should be on a separate line
+        - create another ´div´, in the new ´div´ nest this code block using the ´pre´ HTML tag:
+          ```
+ <code>
+     <h2>My title</h2>
+     <p>Proin lacus turpis, feugiat sit amet sollicitudin non, volutpat in libero. Aenean hendrerit ultrices nulla ac lobortis. Vestibulum consectetur nibh vel ante rhoncus faucibus.</p>
+ </code>
+          ```
+         - create another ´div´, in the new ´div´ add this paragraph of text with the correct HTML tag: ´Curabitur sit amet turpis cursus massa mollis highlighted. Duis finibus leo massa, eget dapibus erat finibus sed. Aenean condimentum sapien magna, eleifend highlighted mi consequat ut. Cras nec quam sed sapien ultricies highlighted ut sed metus.´ Each occurrence of the word ´highlighted´ should be highlighted.
+
+*   33-styleguide.html
+    - inside ´main´ after Typography ´section´
+      - add a new line and a comment with text ´Table´
+      - create a new ´section´
+        - in the ´section´ create a ´header´, in the ´header´ add a level 2 heading with the text ´Table´
+        - after the ´header´, create a ´table´, reproduce in HTML the visual below
+          - The ´<th>´ tags containing ´Title, Director, Release Date´ should have a ´scope´ attribute set to ´col´ The ´<th>´ tags containing the names of the movies should have a ´scope´ attribute set to ´row´
