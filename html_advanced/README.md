@@ -336,3 +336,6 @@
         - in the first ´article´, after the last paragraph, add the author name in small print: ´By Kelly D.´
         - in the second ´article´, after the last paragraph, add the author name in small print: ´By William A.´
         - in the third ´article´, after the last paragraph, add the author name in small print: ´By Frances J.´
+
+*   32-styleguide.html
+    - 
