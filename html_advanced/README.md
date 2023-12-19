@@ -233,3 +233,10 @@
       - create an anchor to ´testimonials´ with the text ´Testimonials´
       - create an anchor to ´contact´ with the text ´Contact´
 
+*   21-index.html
+    - in the ´div´ in the ´footer´
+      - remove any text you have
+      - create a link to ´https://www.facebook.com/HolbertonSchool/´ with the text ´Facebook´
+      - create a link to ´https://twitter.com/holbertonschool´ with the text ´Twitter´
+      - create a link to ´https://www.instagram.com/holbertonschool/´ with the text ´Instagram´
+
