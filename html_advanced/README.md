@@ -328,3 +328,11 @@
       - after the inline quote ´div´, create another ´div´
         - in the new ´div´ add a level 3 heading with the text ´Blockquote´
         - add a multiline quote with the text ´I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.´ and cite ´Kanye West, Musician´
+
+*   31-index.html
+    - in the ´footer´
+      - right after open ´footer´ tag, put the following address: ´234 Washington Street´ (line-break) ´Urbana, Illinois´
+      - in the Latest news ´section´
+        - in the first ´article´, after the last paragraph, add the author name in small print: ´By Kelly D.´
+        - in the second ´article´, after the last paragraph, add the author name in small print: ´By William A.´
+        - in the third ´article´, after the last paragraph, add the author name in small print: ´By Frances J.´
