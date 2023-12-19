@@ -223,3 +223,13 @@
     - change the title of ´latest_news.html´ to replace ´Homepage´ with ´Latest news´
     - change the title of ´contact.html´ to replace ´Homepage´ with ´Contact´
 
+*   20-index.html
+    - in your ´nav´ tags
+      - create a link to ´/´ with the text ´Home´
+      - create an anchor to ´services´ with the text ´Services´
+      - create an anchor to ´works´ with the text ´Works´
+      - create an anchor to ´about´ with the text ´About´
+      - create an anchor to ´latest_news´ with the text ´Latest news´
+      - create an anchor to ´testimonials´ with the text ´Testimonials´
+      - create an anchor to ´contact´ with the text ´Contact´
+
