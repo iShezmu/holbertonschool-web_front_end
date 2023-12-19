@@ -384,4 +384,4 @@
     - in `footer`, after the opening tag and before the address
       - insert the logo image
       - alt: `Techium logo`
-      - don’t forget to specify the width and height (same as in header)
+      - don’t forget to specify the width and height (same as header)
