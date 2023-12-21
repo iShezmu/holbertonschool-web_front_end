@@ -190,3 +190,11 @@
       - Redefine the custom property `text-color` to the `color-white`
       - Redefine the custom property `section-title-color` to `color-white`
       - Set the background to the variable `color-black`
+
+*   23-style.css
+    - Style the `footer-address` class
+      - Set the color of the text to the `text-color` property
+    - Style the `social-link` class:
+      - Style it so that it renders as a block element
+    - Style the `social-link` class that also selects the `svg` children
+      - Fill in the color of the svg children with the `text-color` variable
