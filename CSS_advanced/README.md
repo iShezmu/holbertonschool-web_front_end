@@ -97,3 +97,6 @@
       - Decorate the links with an underline when hovering
     - Directly after the hover state, target the active state for the link
       - Set the color of the background with the variable `color-light-grey`
+
+*   14-style.css
+    - Normalize your CSS file using necolas’ normalize.css with this version.
