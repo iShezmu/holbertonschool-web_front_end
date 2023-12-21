@@ -184,3 +184,9 @@
       - set their padding to half of the root element
       - Hint: be mindful of specificity
     - Remove references to these common properties for the individual `col-1-3` and `col-1-2` classes
+
+*   22-style.css
+    - Style the data-section-theme=“dark” with these rules:
+      - Redefine the custom property `text-color` to the `color-white`
+      - Redefine the custom property `section-title-color` to `color-white`
+      - Set the background to the variable `color-black`
