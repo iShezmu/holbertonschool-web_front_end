@@ -103,3 +103,9 @@
 
 *   15-style.css
     - Just before the styling for `html`, add a universal box sizing rule
+
+*   16-style.css
+    - After the styles for `.section-tagline`,
+    - Target the `container` class and set the following:
+      - `960px` wide
+      - evenly distribute the margins on both the left and and right side
