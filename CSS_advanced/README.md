@@ -88,3 +88,12 @@
     - Set the font weight to `font-weight-bold`
     - Use the `section-title-margin` to set the margin
     - Use the `section-title-color` to set the text color
+
+*   13-style.css
+    - Ensure that the declaration targeting anchor elements only targets those containing a hyperlink
+    - Directly after this declaration, target the visited state for the link
+      - Italicize the text
+    - Directly after the visited state, target the hover state for the link
+      - Decorate the links with an underline when hovering
+    - Directly after the hover state, target the active state for the link
+      - Set the color of the background with the variable `color-light-grey`
