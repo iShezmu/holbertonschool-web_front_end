@@ -70,3 +70,10 @@
     - Create a new custom property `section-header-align` and set it to `center`
     - Just above the `section-tagline` declaration, create a new declaration targeting the class `section-header`
       - Set horizontal alignment of that class with `section-header-align`
+
+*   11-style.css
+    - Create a custom property `section-tagline-transform` and set it to `uppercase`
+    - Targeting the `section-tagline` class:
+      - Set the family of fonts to `font-family-title`
+      - By using the property `section-tagline-transform`, transform the text
+      - Set the weight of fonts to `font-weight-bold`
