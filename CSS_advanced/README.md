@@ -178,4 +178,9 @@
       - displayed as a table
       - do not allow any floating elements on either side
 
-
+*   21-style.css
+    - Select all classes that start with `col-`
+      - float them to the left
+      - set their padding to half of the root element
+      - Hint: be mindful of specificity
+    - Remove references to these common properties for the individual `col-1-3` and `col-1-2` classes
