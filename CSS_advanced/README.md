@@ -34,3 +34,13 @@
     - Set `body`‘s font-family to `font-family-base`
     - Create a new declaration targeting all 6 levels of heading tags
       - set its font-family to `font-family-title`
+
+*   5-style.css
+    - Targeting the `root` selector, create the following custom properties:
+      - `font-size-small` set to `1.2rem`
+      - `font-size-medium` set to `1.6rem`
+      - `font-size-large` set to `1.8rem`
+      - `font-size-x-large` set to `2.3rem`
+      - `font-size-xx-large` set to `4.8rem`
+    - All fonts in the `html` element should be at `62.5%` of their normal size
+    - Any fonts in the `body` should have their sizes set to `font-size-medium`
