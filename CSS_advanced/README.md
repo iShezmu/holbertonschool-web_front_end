@@ -13,3 +13,14 @@
       - All elements with the class `visually-hidden` should have their display to `none`
       - All elements with the class `card-category`, should have their foreground color set to `#D73953`
       - All elements with the class `section-tagline` should have their foreground color set to `#D73953`
+
+*   3-style.css
+    - Target the `root` element and define the following custom properties:
+      - `color-primary` set to `#d73953`
+      - `color-black` set to `#090909`
+      - `color-white` set to `#ffffff`
+      - `color-light-grey` set to `#f3f3f3`
+      - `color-dark-grey` set to `#353535`
+      - `text-color` set to `color-black`
+    - Revisit the `section-tagline` and `card-category` declarations and reset their color to `color-primary`
+    - Revisit the `body` and anchor declarations and reset their color to `text-color`
