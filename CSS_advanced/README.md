@@ -100,3 +100,6 @@
 
 *   14-style.css
     - Normalize your CSS file using necolas’ normalize.css with this version.
+
+*   15-style.css
+    - Just before the styling for `html`, add a universal box sizing rule
