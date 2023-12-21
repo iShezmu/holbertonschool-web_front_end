@@ -236,3 +236,15 @@
         - Use the value of the variable `button-hover-background` for the background
       - In `[data-section-theme="dark"]`, add the variable
         - Create a custom property `button-color` pointing to the variable `color-white`
+
+*   26-style.css
+    - Add the `card-testimonial` selector
+      - Center align the text
+    - Target the `card-avatar` that is inside the `card-testimonial`
+      - Round the radius on all sides at 50%
+      - Set the width to 10x the root element
+      - Set the height to 10x the root element
+    - Target the `<cite>` HTML tag which is inside `card-quote` inside the `card-testimonial`
+      - Style as a block level element
+      - Pad the top with 1x the root element
+      - Set the foreground color value to the value of the color-primary variable
