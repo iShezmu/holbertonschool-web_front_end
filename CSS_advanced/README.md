@@ -198,3 +198,15 @@
       - Style it so that it renders as a block element
     - Style the `social-link` class that also selects the `svg` children
       - Fill in the color of the svg children with the `text-color` variable
+
+*   24-style.css
+    - Target `card-title` that is inside `card-services`
+      - The margin on all sides should be none at all
+    - Target `a` that is inside `card-services`
+      - Have them render as block level elements
+      - The padding should be set to 2x the root element
+      - Set the background color to the variable `color-light-grey`
+    - Target the hover state of `a` that is inside `card-services`
+      - Set the foreground color to the variable `color-white`
+      - Set the color of the background to the variable `color-primary`
+      - Text should not be decorated at all
