@@ -61,4 +61,7 @@
       - `line-height-small` set to `1.2`
       - `line-height-base` set to `1.5`
       - `line-height-big` set to `1.8`
-    - Set the minimum height of line boxes in the `body` to `line-height-base`  - 
+    - Set the minimum height of line boxes in the `body` to `line-height-base`
+
+*   9-style.css
+    - Style the anchor elements so the text isn’t decorated with anything
