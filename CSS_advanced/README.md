@@ -150,3 +150,24 @@
       - `nav-item-display` to `inline-block`
       - `nav-item-marginto` 3 times the root element on the bottom and `0` elsewhere
       - `nav-item-link-hover` set to `color-primary`
+
+*   19-style.css
+    - Create the custom property `section-tagline-margin` set to `0`
+    - Set the margins for the `section-tagline` class to `section-tagline-margin`
+    - For all `ul` with the class `row`:
+      - 0 margins all around
+      - No padding all around
+      - the list should not have any default styles at all
+    - For the `col-1-3` class:
+      - set the width to 33.33% of its parent
+      - float it to the left
+      - set its padding to half of the root element
+    - For the `col-1-2` class:
+      - set the width to 50% of the parent
+      - float it to the left
+      - set its padding to half of the root element
+    - For the `footer-copyright` class:
+      - No margins
+      - Set the size of the fonts to `font-size-small`
+      - set the foreground color to `text-color`
+    - For all `ul` tag in the `footer` class, align the text to the right
