@@ -77,3 +77,14 @@
       - Set the family of fonts to `font-family-title`
       - By using the property `section-tagline-transform`, transform the text
       - Set the weight of fonts to `font-weight-bold`
+
+*   12-style.css
+    - Create the following custom properties:
+      - `section-title-margin` set to `0`
+      - `section-title-color` set to `color-black`
+    - Just above the `section-tagline` declaration, create a new declaration targeting the `section-title` class
+    - Set the family of fonts to `font-family-title`
+    - Set the font size to `font-size-xx-large`
+    - Set the font weight to `font-weight-bold`
+    - Use the `section-title-margin` to set the margin
+    - Use the `section-title-color` to set the text color
