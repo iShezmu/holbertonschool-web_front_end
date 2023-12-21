@@ -171,3 +171,11 @@
       - Set the size of the fonts to `font-size-small`
       - set the foreground color to `text-color`
     - For all `ul` tag in the `footer` class, align the text to the right
+
+*   20-style.css
+    - Write a CSS rule that creates a new row after each instance of the class `row` with the following properties:
+      - no content
+      - displayed as a table
+      - do not allow any floating elements on either side
+
+
