@@ -210,3 +210,29 @@
       - Set the foreground color to the variable `color-white`
       - Set the color of the background to the variable `color-primary`
       - Text should not be decorated at all
+
+*   25-style.css
+    - Add custom properties to the root selector in the css file
+      - Name: `button-display`, Value: `inline-block`
+      - Name: `button-padding`, Value: `1.5rem 3rem`
+      - Name: `button-border`, Value: `0.2rem solid var(--color-primary)`
+      - Name: `button-color`, Value: `color-black`
+      - Name: `button-text-decoration`, Value: `none`
+      - Name: `button-font-size`, Value: `font-size-large`
+      - Name: `button-hover-color`, Value: `color-white`
+      - Name: `button-hover-text-decoration`, Value: `none`
+      - Name: `button-hover-background`, Value: `color-primary`
+    - Add these selectors after the selector for anchor links in active state:
+      - Create the button class selector
+        - Set the display of the button to the variable `button-display`
+        - Add padding all around with the variable `button-padding`
+        - Style the border with the variable `button-border`
+        - Set the size of fonts to the variable `button-font-size`
+        - Set the foreground color to the variable `button-color`
+        - Decorated text should have the value of the variable `button-text-decoration`
+      - Create the hover state of the button class selector
+        - Set the foreground color value to the variable `button-hover-color`
+        - Decorated text should have the value of the variable `button-hover-text-decoration`
+        - Use the value of the variable `button-hover-background` for the background
+      - In `[data-section-theme="dark"]`, add the variable
+        - Create a custom property `button-color` pointing to the variable `color-white`
