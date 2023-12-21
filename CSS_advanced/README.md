@@ -248,3 +248,12 @@
       - Style as a block level element
       - Pad the top with 1x the root element
       - Set the foreground color value to the value of the color-primary variable
+
+*   27-style.css
+    - Add the `section-hero` selector
+      - Set the size of the background using 2-value syntax
+      - Width should be `90rem` and the height should be set automatic
+    - Target the `section-title` inside the `section-hero`
+      - Add 5rem of margin to the bottom
+    - Target the `section-inner` inside the `section-hero`
+      - Add 10rem, 40rem, 2rem, and 0 to the padding on the top, right, bottom, left all in 1 rule
