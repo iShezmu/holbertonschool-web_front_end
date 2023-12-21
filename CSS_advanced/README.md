@@ -44,3 +44,10 @@
       - `font-size-xx-large` set to `4.8rem`
     - All fonts in the `html` element should be at `62.5%` of their normal size
     - Any fonts in the `body` should have their sizes set to `font-size-medium`
+
+*   6-style.css
+    - Targeting the `root` element, create the following custom properties:
+      - `font-weight-regular` set to `400`
+      - `font-weight-bold` set to `700`
+    - Set the boldness of fonts in the `body` to `font-weight-regular`
+    - Set the boldness of fonts in the headings to `font-weight-bold`
