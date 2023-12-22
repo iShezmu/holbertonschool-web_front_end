@@ -351,19 +351,19 @@ ul.row {
 	left: var(--header-logo-link-left);
 }
 
-.card-work .card-outer {
+.card-outer {
 	position: relative;
 	overflow: hidden;
 }
 
-.card-work .card-image img {
+.card-image img {
 	height: 30rem;
 	width: 100%;
 	object-fit: cover;
 	vertical-align: bottom;
 }
 
-.card-work .card-inner {
+.card-inner {
 	position: absolute;
 	top: -0.1rem;
 	left: -0.1rem;
@@ -372,10 +372,10 @@ ul.row {
 }
 
 .card-work:hover .card-inner {
-	background-color: rgba(0, 0, 0, 0.7)
+	background-color: rgba(0, 0, 0, 0.7);
 }
 
-.card-work .card-title {
+.card-title {
 	text-align: center;
 	margin: 0;
 	opacity: 0;
@@ -383,13 +383,13 @@ ul.row {
 	position: relative;
 }
 
-.card-work .car-title a {
+.card-work a .car-title a {
 	display: block;
 	text-decoration: none;
 	padding-top: 45%;
 }
 
-.card-work .card-tittle a::after {
+.card-work:hover a::after, .card-tittle:hover a::after {
 	position: absolute;
 	top: 0;
 	right: 0;
