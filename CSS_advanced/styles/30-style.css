@@ -80,7 +80,7 @@ template{display:none}
 	--button-hover-color: var(--color-white);
 	--button-hover-text-decoration: none;
 	--button-hover-background: var(--color-primary);
-	--header-padding: 4rem 00;
+	--header-padding: 4rem 0 0;
 	--header-logo-position: relative;
 	--header-logo-link-display: inline-block;
 	--header-logo-link-position: absolute;
@@ -372,7 +372,7 @@ ul.row {
 }
 
 .card-work:hover .card-inner {
-	background-color: rgba(0, 0, 0, 0.7);
+	background-color: rgba(0, 0, 0, 0.7)
 }
 
 .card-work .card-title {
