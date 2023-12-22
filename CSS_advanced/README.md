@@ -275,3 +275,17 @@
       - Position the links with the value of the variable `header-logo-link-position`
       - Set the vertical position of the element using `header-logo-link-top`
       - Set the horizontal position of the element using `header-logo-link-left`
+
+*   29-style.css
+    - Edit the `nav-item-link-hover` property by setting its value to the `color-white`variable
+    - Target the before pseudo elements of `nav-link` that is inside the `nav`
+      - Set the values of these elements to `empty` using `content`
+      - Absolutely position the targeted elements
+      - Set the vertical position to 0
+      - The horizontal position of the targeted elements should be 0
+      - Set the color of the background color of the targeted elements to the value `color-white`
+      - The width of the targeted elements should be set to 0
+      - Set the height to 20% of the root element value
+    - Target the before pseudo elements of `nav-link` when `nav-item` is hover and is inside `nav`
+      - Set the background color of the elements to the variable `color-primary`
+      - Set the width of the elements to `100%`
