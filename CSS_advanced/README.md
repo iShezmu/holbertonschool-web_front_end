@@ -289,3 +289,37 @@
     - Target the before pseudo elements of `nav-link` when `nav-item` is hover and is inside `nav`
       - Set the background color of the elements to the variable `color-primary`
       - Set the width of the elements to `100%`
+
+*   30-style.css
+    - Target `card-outer` within the `card-work`
+      - Relatively position the element
+      - Hide any overflow
+    - Target the image inside `card-image` inside `card-work`
+      - The height of these elements should be `30rem`
+      - The width of this element should be 100%
+      - Property: `object-fit`, Value: `cover`
+      - Vertically align to the bottom
+    - Target `card-inner` inside `card-work`
+      - Absolutely position the element
+      - Vertically position with `-0.1rem` on the top
+      - Horizontally position the element with `-0.1rem` on the left
+      - Horizontally position the element with `-0.1rem` on the right
+      - Set the `z-index` to `1`
+    - Target `card-inner` when card-work is `hover` 
+      - Set the background color to this value: `rgba(0, 0, 0, 0.7)`
+    - Target `card-title` inside `card-work`
+      - Center align the text
+      - Margins all around should be `0`
+      - Opacity should be set to its lowest value
+      - The height of the selected elements should be `100%`
+      - The position should be relative
+    - Target the link inside `card-title` and `card-work`
+      - Make sure elements display as blocks
+      - Text should not be decorated
+      - Padding on the top should be `45%`
+    - Create the after pseudo elements of the link (inside `card-title` and `card-work`)
+      - Absolutely position the selected elements
+      - Set the top, right, left, and bottom positions to be 0
+      - The content property of these elements should have an empty value
+    - Target `card-title` when `card-work` is hover
+      - The opacity of these elements should be set to the value of `1`
