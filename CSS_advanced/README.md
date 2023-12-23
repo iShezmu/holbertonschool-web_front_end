@@ -323,3 +323,15 @@
       - The content property of these elements should have an empty value
     - Target `card-title` when `card-work` is hover
       - The opacity of these elements should be set to the value of `1`
+
+*   31-style.css
+    - Target the card-quote that is inside the card-testimonial
+      - Style it so that the position is relative to its parent
+    - Target the before pseudo-element of card-quote that is inside the card-testimonial
+      - The content should be set to the value `\201C`
+      - Absolutely position the selected elements
+      - The vertical position of the selected elements should be `-4.5rem`
+      - The horizontal position from the left should be `-1rem`
+      - The foreground color of the selected elements should be set to `#efeded`
+      - The size of fonts should be `10rem`
+      - The `z-index` should be set to `-1`
