@@ -383,13 +383,13 @@ ul.row {
 	position: relative;
 }
 
-.card-work .car-title a {
+.card-work .card-title a {
 	display: block;
 	text-decoration: none;
 	padding-top: 45%;
 }
 
-.card-work .card-tittle a::after {
+.card-work .card-title a::after {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -398,6 +398,6 @@ ul.row {
 	content: "";
 }
 
-.card-work:hover .car-title {
+.card-work:hover .card-title {
 	opacity: 1;
 }
