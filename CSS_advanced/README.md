@@ -335,3 +335,25 @@
       - The foreground color of the selected elements should be set to `#efeded`
       - The size of fonts should be `10rem`
       - The `z-index` should be set to `-1`
+
+*   32-style.css
+    - Create some custom properties
+      - Name: `transition-duration`, Value: `.3s`
+      - Name: `transition-cubic-bezier`, Value: `cubic-bezier(0.17, 0.67, 0, 1.01)`
+    - Add transformations on the card work
+      - Target the card-image when card-work is hover
+        - Use the transform property to apply a scale transform with a value of `scale(1.2)`
+      - Target the card-outer when card-work is hover
+        - Use the transform property apply a scale transform to make the elements shrink. Use `scale(0.95)`
+    - Add animations on the navigation items
+      - Inside `.nav .nav-link::before`
+        - Use the shorthand property `transition` and have it use the value of `var(–-transition-duration) var(--transition-cubic-bezier)`
+    - Animate the button background
+      - In the hover state of the button class
+        - The duration of the transition should be set to the variable `transition-duration`
+        - The transition effect should be applied to the `color` and `background-color` properties (`transition-property`)
+    - Add transitions on the card works
+      - Inside `card-work:hover .card-image`
+        - Use the shorthand property `transition` and have it use the value of `var(–-transition-duration) var(--transition-cubic-bezier)`
+      - Inside `.card-work .card-inner`
+        - Use the shorthand property `transition` and have it use the value of `var(–-transition-duration) var(--transition-cubic-bezier)`
